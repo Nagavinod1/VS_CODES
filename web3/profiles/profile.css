@@ -1,0 +1,18 @@
+.pic{
+    border: 5px solid black;
+    border-radius: 10px;
+    display:inline-block;
+    box-shadow: 0 4px 8px black;
+    transition: 0.8s;
+    margin: 10px;
+}
+img{
+    width: 100%;
+    
+}
+.desc{
+    padding: 20px;
+}
+.pic:hover{
+    box-shadow: 0 8px 16px black;
+}

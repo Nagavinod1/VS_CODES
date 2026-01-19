@@ -1,0 +1,11 @@
+*{
+    font-family: 'Courier New';
+}
+.a{
+    background-color: aqua;
+    color: black;
+}
+button{
+    color:white;
+    background-color: black;
+}

@@ -1,0 +1,33 @@
+.anim{
+    height: 100px;
+    width: 300px;
+    background-color: palegoldenrod;
+    animation-name: fontAnimation;
+    animation-duration: 4s;
+    animation-timing-function: ease-in;
+    animation-delay: 0.8s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes fontAnimation{
+    from{
+        font-size:20px;
+        background-color: aqua;
+
+        
+    }
+    to{
+        font-size:55px;
+        color: brown;
+        width: 600px;
+        
+    }
+}
+@media(min-width:200px ) and (max-width){
+    div{
+        background-color: blueviolet;
+        border:2px solid black;
+        3
+    }
+}

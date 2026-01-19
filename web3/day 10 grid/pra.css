@@ -1,0 +1,22 @@
+#out{
+    height: 300px;
+    width: 800px;
+    border: 2px solid black;
+    margin: auto;
+    display: grid;
+    grid-template-rows: repeat(10,1fr);
+    grid-template-columns: repeat(10,1fr);
+    grid-gap: 10px 10px;
+    justify-content: flex-end;
+    
+}
+
+.inn{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    position:relative;
+    top: 10px;
+    left:10px;
+    
+}

@@ -1,0 +1,20 @@
+ h1{
+    color:rgb(159, 64, 64);
+}
+#login{
+    background-color: aliceblue;
+}
+#signup{
+    color:aliceblue;
+    background-color:rgb(172, 42, 42) ;
+
+}
+.a{
+    background-color: aquamarine;
+}
+h3{
+    color: rgb(98, 11, 11);
+}
+a{
+    color:blueviolet;
+}

@@ -1,0 +1,25 @@
+#container{
+    height: 300px;
+    width: 80%;
+    border: 2px solid black;
+    text-align: center;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: row;
+    
+    
+    
+    /*also test for coloum and reverse row and reverse column*/
+    /*justify-content: space-evenly;*/
+}
+h1{
+    text-align: center;
+}
+#container div{
+    height: 100px;
+    width: 100px;
+    color:white;
+    font-size: 2em;
+    flex-shrink: 1;
+    
+}
